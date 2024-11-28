@@ -1,0 +1,8 @@
+tkinter  # (Note: tkinter comes pre-installed with Python, so no need to add it to requirements)
+SpeechRecognition==3.8.1
+pyttsx3==2.90
+requests==2.31.0
+google==3.0.0  # For googlesearch
+beautifulsoup4==4.12.2
+pyjokes==0.6.0
+
